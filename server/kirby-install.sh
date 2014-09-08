@@ -1,6 +1,6 @@
 #!/bin/bash
 # 
-# kirby-install.sh - v1.0 (19/09/2014)
+# kirby-install.sh - v1.0.1 (8/10/2014)
 # Aris Papathéodorou (@_a_r_i_s)
 # Interactive installation script for Kirby
 # License : domaine public
@@ -22,7 +22,7 @@
 # Usage :
 # - Run in terminal: ./kirby-install.sh
 # - Note: The script file need to be executable. 
-# - Command: chmod u+x kirby-install.sh
+# - Command: chmod 700 kirby-install.sh
 #
 
 echo "Downloading latest Kirby package"
